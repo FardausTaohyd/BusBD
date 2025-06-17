@@ -1,7 +1,3 @@
-Sure! Here’s a professional, concise, and clear README for your BusBD project, perfect for sharing on LinkedIn or GitHub:
-
----
-
 # BusBD - Real-Time Local Bus Tracker & Info App
 
 **BusBD** is a user-friendly web application designed to improve the experience of local bus commuters in Bangladesh by providing real-time bus tracking, seat availability, route information, and safety features — all in one place.
